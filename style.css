@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+.main{
+    background-color: #f7f7f7;
+    width: 800px;
+    height: 100vh;
+    margin: auto;
+}
+
+.section1{
+    background-color: yellow;
+    width: 250px;
+    height: 100vh;
+    float: left;
+}
+
+.section1 img{
+    width: 120px;
+    height: 150px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.education h3{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.education h5{
+    margin-top: 10px;
+    margin-left: 30px;
+    text-decoration: underline;
+}
+
+.education p{
+    margin-top: 10px;
+    margin-left: 30px;
+    font-size: 12px;
+}
+
+.section2{
+    padding-left: 280px;
+    padding-right: 20px;
+}
+
+.section2 p{
+    font-size: 12px;
+    color: #2600ff;
+    margin-top: 10px;
+}
+
+.content1{
+    padding-top: 30px;
+}
+
+.content1 h4{
+    color: #2600ff;
+}
+
+.content2{
+    margin-top: 25px;
+}
+
+.content3, .content4, .content5, .content6{
+    margin-top: 20px;
+}
